@@ -189,5 +189,3 @@ MIT License - Feel free to use this project for your own purposes!
 - **React** for the powerful UI library
 
 ---
-
-Made with ❤️ using Groq AI
